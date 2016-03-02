@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "第一篇博客"
-subtitle:   "iOS 9, Safari and the Web: 3D Touch, new Responsive Web Design, Native integration and HTML5 APIs"
+subtitle:   "The first blog"
 date:       2015-12-15
-author:     "Hux"
+author:     "qianhuiw"
 header-img: "img/post-bg-ios9-web.jpg"
 tags:
     - 前端开发

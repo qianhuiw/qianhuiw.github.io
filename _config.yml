@@ -1,6 +1,6 @@
 # Site settings
-title: Qianhuiw Blog
-SEOTitle: 魏芊汇的博客 | Qianhuiw Blog
+title: qhwei Blog
+SEOTitle: 魏芊汇的博客 | qhwei Blog
 header-img: img/home-bg.jpg
 email: 374698148@qq.com
 description: "这里写一段描述"
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: qhweiblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
